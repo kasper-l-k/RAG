@@ -1,0 +1,17 @@
+Networking Fundamentals for Homelabs
+
+A strong understanding of networking is essential for a successful
+homelab.
+
+Core Concepts: - IP addressing (IPv4, IPv6) - Subnetting - DNS (Domain
+Name System) - DHCP (Dynamic Host Configuration Protocol) - VLANs
+(Virtual Local Area Networks) - NAT (Network Address Translation)
+
+Best Practices: - Segment lab traffic using VLANs - Use a dedicated
+firewall appliance - Document IP schemes - Monitor traffic and logs
+
+Tools to Practice With: - Virtual routers/firewalls - Packet analyzers -
+Network simulation tools
+
+Mastering networking improves security, stability, and scalability in
+your lab.

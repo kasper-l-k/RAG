@@ -1,0 +1,15 @@
+Security and Backups in Homelabs
+
+Security is critical, even in a home environment.
+
+Security Practices: - Regular software updates - Strong authentication -
+Network segmentation - Firewall rules and intrusion detection -
+Encrypted connections (HTTPS, SSH)
+
+Backup Strategies: - Follow the 3-2-1 rule (3 copies, 2 media types, 1
+offsite) - Automate backups - Test restore procedures regularly
+
+Monitoring: - Log aggregation - Uptime monitoring - Resource tracking
+
+A secure and resilient homelab protects both your learning environment
+and your personal data.

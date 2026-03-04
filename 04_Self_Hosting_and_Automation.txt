@@ -1,0 +1,15 @@
+Self-Hosting and Automation
+
+Self-hosting means running your own services instead of relying on
+third-party providers.
+
+Popular Self-Hosted Services: - File synchronization - Media servers -
+Password managers - Home automation platforms - Git repositories
+
+Automation: - Infrastructure as Code (IaC) - Configuration management
+tools - Scheduled backups - Monitoring and alerting systems
+
+Benefits: - Increased privacy - Full control over data - Deeper
+technical understanding
+
+Automation ensures your homelab remains manageable as it grows.

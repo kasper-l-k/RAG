@@ -1,0 +1,18 @@
+Introduction to Homelabbing
+
+Homelabbing is the practice of building and maintaining a personal IT
+environment at home for learning, experimentation, and self-hosting. A
+homelab can range from a single Raspberry Pi to a full rack of
+enterprise servers.
+
+Common Goals: - Learn networking, virtualization, and system
+administration - Practice cybersecurity skills - Host personal services
+(file storage, media streaming, automation) - Prepare for IT
+certifications
+
+Typical Hardware: - Old desktops or servers - Single-board computers -
+Managed switches - Consumer or prosumer routers - Network-attached
+storage (NAS)
+
+Homelabbing encourages hands-on learning and experimentation without
+risking production systems.

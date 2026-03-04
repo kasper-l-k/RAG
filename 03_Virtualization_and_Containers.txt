@@ -1,0 +1,17 @@
+Virtualization and Containers in Homelabs
+
+Virtualization allows multiple virtual machines (VMs) to run on a single
+physical host. Containers provide lightweight, isolated application
+environments.
+
+Virtual Machines: - Run full operating systems - Require a hypervisor -
+Useful for OS testing and lab simulations
+
+Containers: - Share the host OS kernel - Lightweight and fast - Ideal
+for microservices and self-hosted apps
+
+Use Cases: - Hosting web servers - Running development environments -
+Building test networks - Learning DevOps tools
+
+Combining virtualization and containers enables flexible and efficient
+lab environments.
